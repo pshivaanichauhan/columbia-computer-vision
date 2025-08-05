@@ -1,0 +1,5 @@
+🎓 Columbia Computer Vision Portfolio
+💬 Summary of hands-on projects from the Columbia CV course via Coursera+.
+📁 Includes edge detection, 3D model experiments, and shape completion.
+🔗 https://www.coursera.org/learn/first-principles-computer-vision
+🧠 Tags: computer-vision, columbia-university, opencv, deep-learning, coursera
